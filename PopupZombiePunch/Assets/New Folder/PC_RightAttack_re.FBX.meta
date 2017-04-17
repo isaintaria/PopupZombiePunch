@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9ca6230aa60a7df4d877a54ac3866ccf
-timeCreated: 1492190380
+guid: 2d5c51d065ad7314dbd3e2f9b26d1c62
+timeCreated: 1492448736
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -67,7 +67,7 @@ ModelImporter:
     400058: UpperLeg_Right_int
     4300000: mesh_Base
     4300002: BoxerGlove
-    7400000: PC_LeftAttack
+    7400000: Take 001
     9500000: //RootNode
     13700000: BoxerGlove
     13700002: mesh_Base
@@ -95,8 +95,8 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: PC_LeftAttack
-      takeName: PC_LeftAttack
+      name: Take 001
+      takeName: Take 001
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -118,8 +118,8 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events:
-      - time: 0.28994784
-        functionName: LeftAttackEvent
+      - time: 0.49671057
+        functionName: RightAttackEvent
         data: 
         objectReferenceParameter: {fileID: 1465740131080142, guid: 04b496a1aad40a947b59e27429ea6cb0,
           type: 2}
