@@ -93,7 +93,105 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PC_RightAttack
+      takeName: PC_RightAttack
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.79759586
+        functionName: RightAttackEvent
+        data: 
+        objectReferenceParameter: {fileID: 1465740131080142, guid: 04b496a1aad40a947b59e27429ea6cb0,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoxerGlove
+        weight: 1
+      - path: mesh_Base
+        weight: 1
+      - path: Root_int
+        weight: 1
+      - path: Root_int/Bip001 Footsteps
+        weight: 1
+      - path: Root_int/Body_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left/Hand_Left_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right/Hand_Right_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head/Bip001 HeadNub
+        weight: 1
+      - path: Root_int/Hip_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int/Bip001
+          L Toe0Nub
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int/Bip001
+          R Toe0Nub
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

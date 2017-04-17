@@ -119,7 +119,7 @@ ModelImporter:
       curves: []
       events:
       - time: 0.6846847
-        functionName: Test
+        functionName: LeftAttackEvent
         data: 
         objectReferenceParameter: {fileID: 1465740131080142, guid: 04b496a1aad40a947b59e27429ea6cb0,
           type: 2}
