@@ -125,7 +125,8 @@ ModelImporter:
       - time: 0.4911032
         functionName: RightAttackEvent
         data: 
-        objectReferenceParameter: {instanceID: 0}
+        objectReferenceParameter: {fileID: 1901626161730552, guid: 232f54d62b7095148b293bb18d0a709d,
+          type: 2}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0

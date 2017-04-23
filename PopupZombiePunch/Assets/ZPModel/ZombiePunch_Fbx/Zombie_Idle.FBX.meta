@@ -89,7 +89,95 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Zombie_Idle
+      takeName: Zombie_Idle
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 10
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh_Base
+        weight: 1
+      - path: Root_int
+        weight: 1
+      - path: Root_int/Bip001 Footsteps
+        weight: 1
+      - path: Root_int/Body_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left/Hand_Left_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right/Hand_Right_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head/Bip001 HeadNub
+        weight: 1
+      - path: Root_int/Hip_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int/Bip001
+          L Toe0Nub
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int/Bip001
+          R Toe0Nub
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
