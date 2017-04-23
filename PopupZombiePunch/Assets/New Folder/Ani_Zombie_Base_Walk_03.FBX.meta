@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 2559edf56ca4e364cbb5fa65044951f1
+timeCreated: 1492614433
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_int
+    100004: Clavicle_Left_int
+    100006: Clavicle_Right_int
+    100008: Foot_Left_int
+    100010: Foot_Right_int
+    100012: Hand_Left
+    100014: Hand_Left_Dummy
+    100016: Hand_Right
+    100018: Hand_Right_Dummy
+    100020: HAT
+    100022: Head
+    100024: Hip_int
+    100026: LowerArm_Left_int
+    100028: LowerArm_Right_int
+    100030: LowerLeg_Left_int
+    100032: LowerLeg_Right_int
+    100034: Neck_int
+    100036: Root_int
+    100038: Root_int Footsteps
+    100040: Root_int L Toe0Nub
+    100042: Root_int R Toe0Nub
+    100044: Toe_Left_int
+    100046: Toe_Right_int
+    100048: UpperArm_Left_int
+    100050: UpperArm_Right_int
+    100052: UpperLeg_Left_int
+    100054: UpperLeg_Right_int
+    400000: //RootNode
+    400002: Body_int
+    400004: Clavicle_Left_int
+    400006: Clavicle_Right_int
+    400008: Foot_Left_int
+    400010: Foot_Right_int
+    400012: Hand_Left
+    400014: Hand_Left_Dummy
+    400016: Hand_Right
+    400018: Hand_Right_Dummy
+    400020: HAT
+    400022: Head
+    400024: Hip_int
+    400026: LowerArm_Left_int
+    400028: LowerArm_Right_int
+    400030: LowerLeg_Left_int
+    400032: LowerLeg_Right_int
+    400034: Neck_int
+    400036: Root_int
+    400038: Root_int Footsteps
+    400040: Root_int L Toe0Nub
+    400042: Root_int R Toe0Nub
+    400044: Toe_Left_int
+    400046: Toe_Right_int
+    400048: UpperArm_Left_int
+    400050: UpperArm_Right_int
+    400052: UpperLeg_Left_int
+    400054: UpperLeg_Right_int
+    7400000: Ani_Zombie_Base_Walk_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ani_Zombie_Base_Walk_03
+      takeName: Ani_Zombie_Base_Walk_03
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_int
+        weight: 1
+      - path: Root_int/Body_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Left_int/UpperArm_Left_int/LowerArm_Left_int/Hand_Left/Hand_Left_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Clavicle_Right_int/UpperArm_Right_int/LowerArm_Right_int/Hand_Right/Hand_Right_Dummy
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head
+        weight: 1
+      - path: Root_int/Body_int/Neck_int/Head/HAT
+        weight: 1
+      - path: Root_int/Hip_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Left_int/LowerLeg_Left_int/Foot_Left_int/Toe_Left_int/Root_int
+          L Toe0Nub
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int
+        weight: 1
+      - path: Root_int/Hip_int/UpperLeg_Right_int/LowerLeg_Right_int/Foot_Right_int/Toe_Right_int/Root_int
+          R Toe0Nub
+        weight: 1
+      - path: Root_int/Root_int Footsteps
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
