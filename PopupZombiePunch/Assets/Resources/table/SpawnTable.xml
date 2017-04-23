@@ -3,33 +3,59 @@
   <SpawnDatas>
     <Data>
       <IdleTime>2</IdleTime>
-      <SpawnTimeMin>3</SpawnTimeMin>
-      <SpawnTimeMax>5</SpawnTimeMax>
+      <LeftSpawnTimeMin>0.5</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>1</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax> 
     </Data>
     <Data>
       <IdleTime>2</IdleTime>
-      <SpawnTimeMin>2</SpawnTimeMin>
-      <SpawnTimeMax>4</SpawnTimeMax>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>2</RightSpawnTimeMax>
     </Data>
     <Data>
-      <IdleTime>1</IdleTime>
-      <SpawnTimeMin>0.5</SpawnTimeMin>
-      <SpawnTimeMax>3</SpawnTimeMax>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>2</RightSpawnTimeMax>
     </Data>
     <Data>
-      <IdleTime>0.5</IdleTime>
-      <SpawnTimeMin>0.5</SpawnTimeMin>
-      <SpawnTimeMax>2</SpawnTimeMax>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax>
     </Data>
     <Data>
-      <IdleTime>0.5</IdleTime>
-      <SpawnTimeMin>0.2</SpawnTimeMin>
-      <SpawnTimeMax>1</SpawnTimeMax>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax>
     </Data>
     <Data>
-      <IdleTime>0.5</IdleTime>
-      <SpawnTimeMin>0</SpawnTimeMin>
-      <SpawnTimeMax>0</SpawnTimeMax>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax>
+    </Data>
+    <Data>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax>
+    </Data>
+    <Data>
+      <IdleTime>2</IdleTime>
+      <LeftSpawnTimeMin>1.2</LeftSpawnTimeMin>
+      <LeftSpawnTimeMax>2</LeftSpawnTimeMax>
+      <RightSpawnTimeMin>1</RightSpawnTimeMin>
+      <RightSpawnTimeMax>5</RightSpawnTimeMax>
     </Data>
   </SpawnDatas>
 </SpawnTable>
